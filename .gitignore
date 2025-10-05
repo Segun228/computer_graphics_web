@@ -44,8 +44,8 @@ Thumbs.db
 # Application specific
 uploads/
 results/
-*.jpg
-*.jpeg
+
+
 *.png
 *.bmp
 
